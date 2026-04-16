@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 # -----------------------
 # Python
 # -----------------------
+=======
+.venv/
+>>>>>>> b676cf5 (Add ADVIO IMU benchmarking and Colab notebooks)
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+<<<<<<< HEAD
 *.so
 
 # -----------------------
@@ -53,3 +58,23 @@ outputs/
 # Temp / cache
 # -----------------------
 temp_vggt/
+=======
+
+.vscode/
+.idea/
+
+data/
+outputs/
+
+*.zip
+*.mov
+*.bin
+*.ply
+*.npy
+
+test.jpg
+test-image.jpeg
+
+.DS_Store
+Thumbs.db
+>>>>>>> b676cf5 (Add ADVIO IMU benchmarking and Colab notebooks)

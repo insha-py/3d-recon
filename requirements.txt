@@ -1,0 +1,8 @@
+numpy
+open3d
+matplotlib
+pycolmap
+trimesh
+opencv-python
+tqdm
+scipy
